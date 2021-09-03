@@ -2,7 +2,7 @@
 """
 Created on Fri Sep  3 12:17:16 2021
 
-@author: Lenovo
+@author: KushagraK7
 """
 
 n = int(input("Please enter number "))
